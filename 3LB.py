@@ -178,7 +178,7 @@ def do_clear():
 
 # --- Создание окна ---
 root = tk.Tk()
-root.title("Шифр Белазо (автоключ) — Вариант 3")
+root.title("Шифр Белазо (автоключ)")
 root.resizable(False, False)
 
 # --- Рамка ввода ---
